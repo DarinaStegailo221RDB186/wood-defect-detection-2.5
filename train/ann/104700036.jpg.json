@@ -1,0 +1,136 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16643534,
+            "classId": 35123,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:41:00.918Z",
+            "updatedAt": "2023-08-18T14:41:00.918Z",
+            "tags": [],
+            "classTitle": "Marrow",
+            "bitmap": {
+                "data": "eJwB4wIc/YlQTkcNChoKAAAADUlIRFIAAACzAAACrwEDAAAAG1FseQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAKLSURBVHic7dtNroMgEABgjQuXHIGjcDQ4GkfhCCy7IPqS1yqDtWGm/Ijv4abJt1BnJiiUcRgGsT4PPYSHfLk5+ItXG/K4+SP0aXMX+rz5EjrbfA2d765QLnYPA5O7h4HtfAjsg4/eg4An7w7js/cF4z49YYKozoErhAvguoBL4KaiAw4K3P3dHwiXCHeZHA4MUdg5wuEAYyVcEV1ncpPJbdznmv6I+5TJx0xeZECmuABuK3rpuP6bC+C2oreWh7u7AG4LeGvx3t0FcFvRW8tDTU+ZaH5yAXylusrk2jtPceOdZfKZ6MFEysZ9JPplKyToLpMvCJcIXyu6wLiKO8/kjOjzTXzCuK7nI8ZN91QfMG6JnvKAkwinvmlT3sAc48o7I/rdB+pf9dYeQEUG6l285oxJAqfOjErMmESKK+8c4zruDLqJe+n/XlHuMjko8NSCg8KPmXzI5ZLoguic6AzhcADPCF9zufKOesMjfCR6a2/gwA3RLdGpmzYu7iPGl0ze3MBWcRdE50RnRC+yxtZEN96rDoBP3sLuJPSUtgDR/ffgCKe2NaQ4Q3hvj3gd9nu/qj2it01EXCD8Pz8g/qoz4K5hvyo/NT1laRm4ijur6TruSTNW4E0sFQs4dSl9lbeWt7t7a/XtdSe4+d6LbObY772JTRiq51rxX9XP1f9R6N69e2kv0bWCcpXJdWNu6jlvzFkmp/bh5trCQHXdAB9KuwSuElwAHxKce14wzrw7jINCPjAOCmkxDgppoIMCaJTL3VXgPnEB+wR9+pLchb4H/OlLdRv6HlgYlg9AH3wLQB18C+DAWwDL0efT29xv1B59OL+d7cJv/MyQe/fp/PTPyNSJs9PT/F75+fsDYMb6LqhBjMYAAAAASUVORK5CYIJYi2h5",
+                "origin": [
+                    1203,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 16643533,
+            "classId": 35123,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:41:00.918Z",
+            "updatedAt": "2023-08-18T14:41:00.918Z",
+            "tags": [],
+            "classTitle": "Marrow",
+            "bitmap": {
+                "data": "eJwB3QEi/olQTkcNChoKAAAADUlIRFIAAACEAAABJQEDAAAAH73YGwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGFSURBVHic3dfLjYQwDABQEAeOlJBSUlpSWkpJCRxziPAOA/naCCtiMzvL8Un4BxFmGPZLgB6KawbYSpEAYHIYXwCuuqm6TexSxFZvsVWYItB0iE+yHAJ14Dy0PCXVqE5JyU6AtUqepZ+CxPRzkNhZKCcVJKKEgmSUUJCKYi8lQihxTOKuZErir2ROsl1Jais0hkVkotkiMzEMcdV4Qom5HKELsUgcEo8EysGH0KUYJBbJisQh8Ug2JIBFIzFILENWJI4hniEbJaoiSip4tdoipklsR1kJUR8VToV/Xb5h8rJJRJPUcSxL1CNiWAK38ulT+XuiOoq8laeeO+/dgH8gbd8mjabBEd7XsxL8zeWIp6RKxdkT8HaBhbOl4N2msyhU4TcKPCE9J4+3XI6Q+7O6E03Jba6e03jqCTJFMaRbPV/61t0J/tdrk7bsrJNCnos2kQ+JYMjSJHMpAyUTQ0Yk5aA3WhRDZC6eFpGL48qSy0pLMQ5LSzEOM9Tj0LQU43hD3vze+g+CGeBaCXbI7AAAAABJRU5ErkJgghEbyEA=",
+                "origin": [
+                    1287,
+                    731
+                ]
+            }
+        },
+        {
+            "id": 16643532,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:41:00.917Z",
+            "updatedAt": "2023-08-18T14:41:00.917Z",
+            "tags": [],
+            "classTitle": "resin",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKWQBzHyAwkF6vrqQAptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDclZ7ujiGVMzZetmar0VBgC2hp1XV/YOGDG//sUALpqWsH+NnsCck3dANk97XIskmY3AsZ/rD88qXdjCoJzJX5LEXhOxoOrBxwQuh0xd5s12f5ZzbLiqxUbiPsU+ArcJpTpPbEvEPW6surTWbUzXHvcCnjnHyIt5vfTp3X+5YUig7o2mz1/N/ffGr9HddZVt8/OWHoid8v1I938dfkZZ0WxPTOP3Zbf3XgXVKEZWsplFy/auN5XOPCSlNbp4iAHQ2g6ern8s6p4QmAJHJY0k=",
+                "origin": [
+                    746,
+                    930
+                ]
+            }
+        },
+        {
+            "id": 16643531,
+            "classId": 35123,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:41:00.917Z",
+            "updatedAt": "2023-08-18T14:41:00.917Z",
+            "tags": [],
+            "classTitle": "Marrow",
+            "points": {
+                "exterior": [
+                    [
+                        1287,
+                        730
+                    ],
+                    [
+                        1419,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16643530,
+            "classId": 35123,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:41:00.916Z",
+            "updatedAt": "2023-08-18T14:41:00.916Z",
+            "tags": [],
+            "classTitle": "Marrow",
+            "points": {
+                "exterior": [
+                    [
+                        1203,
+                        0
+                    ],
+                    [
+                        1381,
+                        686
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16643529,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:41:00.916Z",
+            "updatedAt": "2023-08-18T14:41:00.916Z",
+            "tags": [],
+            "classTitle": "resin",
+            "points": {
+                "exterior": [
+                    [
+                        746,
+                        929
+                    ],
+                    [
+                        803,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

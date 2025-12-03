@@ -1,0 +1,136 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16630415,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:13:29.255Z",
+            "updatedAt": "2023-08-18T14:13:29.255Z",
+            "tags": [],
+            "classTitle": "resin",
+            "bitmap": {
+                "data": "eJwBnwFg/olQTkcNChoKAAAADUlIRFIAAACBAAAAkgEDAAAAWCw7JgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFHSURBVHic5dbBjYUgEAZgiAePlmAplgalsZ1QAkcOBDYLwjD8vMjzut78YpgfGRQhhEj5MqJdexFPchQJJFeRRKJu0U1uoKFlFVtlq+JAWvm9Sit/VIkgLdDZpAZSIA1qRElihzgt4k7iPwnFqaEpTo3Yiwax7C1TedWJBwkgcZjoTBKKXhADYkEciAcJCxJBciAuBsSCOBC/IAEkLkhC0Qti+AqmPI1B3EwuLp53VMrTQDlAdi5xJhuIBJm8DgVygQwRNZTXUP6fi3wlj/vpneBOnQrPE0H+tty2ILw3vBgb2i3KCXJ9LRY6fC4MJp+tqcgnedcIC0sxXxwuHsSB2AUxr0SDiGeJIGFByk+3FwdiQUwWNcRh/RM/yTnEYd3LjiA/FKfslJiHK3HKNFx+VBcRJeyW6Nh0pfs73Y5fZ3/Iu4f2/e0vJv9lmY2hVswAAAAASUVORK5CYIImPqE/",
+                "origin": [
+                    1221,
+                    693
+                ]
+            }
+        },
+        {
+            "id": 16630414,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:13:29.254Z",
+            "updatedAt": "2023-08-18T14:13:29.254Z",
+            "tags": [],
+            "classTitle": "resin",
+            "bitmap": {
+                "data": "eJwBTQGy/olQTkcNChoKAAAADUlIRFIAAABnAAAAbwEDAAAAy9xM1wAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAD1SURBVHic3dSxDcMgEAXQs1y49AgehdHMaIzCCJQUyJcAPrjvCJQiVeiebO6f5OQTEXGkfjZmpZ05MdtbhvMJt84iuVvAV8VSdU9ab1kJKMdJgLp4sH5oRL7HydSG/HDpCqDUw2vG1sUoC3JtsRpxKIWHjFJUa+b4mRTeq/2b0teKoDCRBzmQBekfSP7uEK4VQH6i8CudI8WnzEhprmOk66l9JJ5r/D96agUtExHqBJmJDlBf9PrQBuqrJdLLJCiYCOUToZiirrBajC3Ckx7jSY9xpMdY6L5WvLJm3zRBu0rzGhUgrzrSr0qbl/zUZNSQuni+9gJ8e4MYR/Dr5gAAAABJRU5ErkJggp0blew=",
+                "origin": [
+                    1403,
+                    719
+                ]
+            }
+        },
+        {
+            "id": 16630413,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:13:29.254Z",
+            "updatedAt": "2023-08-18T14:13:29.254Z",
+            "tags": [],
+            "classTitle": "resin",
+            "bitmap": {
+                "data": "eJwBigF1/olQTkcNChoKAAAADUlIRFIAAACWAAAAagEDAAAAZJ86wwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEySURBVHic1dWxkcQgDAVQPA4cUgKlUBqURikugdABYw7OgCX0j930FL4Zli8MWqVKbTlnr3jpYnEyUyxf3Fy1zO2X+C8emVQzS+3sQUjFHoRUGkFI+RGEL56oZt9mu5XaZ8tT4LaJFhZElNoJMissisg14LcmqJzMfzQn7PszsMAM2AOZBia/eQJ3I8k7VG+lCJiUDJjAxUrkzXBzwCwwA+wAtn+053FvwBQyFjD+9aqnN3yCiRCAtfnBArbJQQPefOpwc8AMML22BMbYsB0YCfjOS2R2WFyaWdoJLAzTwN5GPLBBb3P32kbD6bXR8PXBHLB+CJFYb+4kpoH1RgIwT2xfGKHe3A0sAeP/kDJebzgA88ysiNIOIXHTctunYb7tE5Bv8QScqG5yzXbIpWVxS/IDGVQaR+50cnMAAAAASUVORK5CYIJHoqjA",
+                "origin": [
+                    1412,
+                    908
+                ]
+            }
+        },
+        {
+            "id": 16630412,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:13:29.253Z",
+            "updatedAt": "2023-08-18T14:13:29.253Z",
+            "tags": [],
+            "classTitle": "resin",
+            "points": {
+                "exterior": [
+                    [
+                        1412,
+                        908
+                    ],
+                    [
+                        1561,
+                        1013
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16630411,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:13:29.253Z",
+            "updatedAt": "2023-08-18T14:13:29.253Z",
+            "tags": [],
+            "classTitle": "resin",
+            "points": {
+                "exterior": [
+                    [
+                        1402,
+                        718
+                    ],
+                    [
+                        1505,
+                        830
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16630410,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:13:29.253Z",
+            "updatedAt": "2023-08-18T14:13:29.253Z",
+            "tags": [],
+            "classTitle": "resin",
+            "points": {
+                "exterior": [
+                    [
+                        1220,
+                        693
+                    ],
+                    [
+                        1350,
+                        839
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

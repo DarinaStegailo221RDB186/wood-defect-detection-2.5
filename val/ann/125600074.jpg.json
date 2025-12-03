@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16629181,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:10:49.732Z",
+            "updatedAt": "2023-08-18T14:10:49.732Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "bitmap": {
+                "data": "eJwBVAGr/olQTkcNChoKAAAADUlIRFIAAAD1AAAAQQEDAAAAMyRwRQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAD8SURBVHicpdWxFYQgDAZg7l1hyQiOwmgwmqMwAiWFzxx4ooLJn8KUfgYSnwFjxHAUZTTmS7Qht0QURJ2ohryB3z0J+qF/ZMHnw9cn0T1aA+4s1HZOrdizUNd7OIrNfDotLYfbvbkfn14Rb81K/gWemJpGnxV3invgmel5cNReddRe9Ulxq/isuMcOyy8OyytuoSdcXnGnuFcccvm/3vny0oPi+O+q8w19VTwrnhSPigfsmzI9SfFFmV7uxBqWB+O38kdatzs4HsazmttcKLC7d5gB664FpoFw98cAj5cKzO4bHGkPJ67cvxB5Pb8Au/hVoXQXHi/I2fsOUvYPS3WabIhX/MYAAAAASUVORK5CYIJskpT3",
+                "origin": [
+                    632,
+                    247
+                ]
+            }
+        },
+        {
+            "id": 16629180,
+            "classId": 35121,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:10:49.731Z",
+            "updatedAt": "2023-08-18T14:10:49.731Z",
+            "tags": [],
+            "classTitle": "Quartzity",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLOQFzAyAwk61/FGwMptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcpo9XRxDKuZcvWDI16DA05rYw7zY/YOGDG/fsUALJmXmh503MnykVnTylf2atOx/wNIrPK7JAp4OdgbMW66Frstc+ck3O3RB8IWNa71EFp7ZsvrO1vb+L6p3n7RFzfqT3Bo8MTBpSqvWF57OM+pNIeu0z2twiMaHJU2RFF34Ya6M8v1QiRNlrfszmCMdPi4QSdo7D+gcBk9XP5d1TglNAMSJU0Y=",
+                "origin": [
+                    1167,
+                    912
+                ]
+            }
+        },
+        {
+            "id": 16629179,
+            "classId": 35121,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:10:49.729Z",
+            "updatedAt": "2023-08-18T14:10:49.729Z",
+            "tags": [],
+            "classTitle": "Quartzity",
+            "points": {
+                "exterior": [
+                    [
+                        1167,
+                        912
+                    ],
+                    [
+                        1233,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16629178,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:10:49.729Z",
+            "updatedAt": "2023-08-18T14:10:49.729Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "points": {
+                "exterior": [
+                    [
+                        631,
+                        247
+                    ],
+                    [
+                        876,
+                        311
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

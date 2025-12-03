@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16702255,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:20:21.990Z",
+            "updatedAt": "2023-08-18T16:20:21.990Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "bitmap": {
+                "data": "eJwBpAJb/YlQTkcNChoKAAAADUlIRFIAAAGPAAAAogEDAAAAgxHT+AAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAJMSURBVHic5dpNbsMgEAVgR1l0yRE4CkfDR+Mo3KDs6kqWp3bsYOMfeI9FVCWz/xTPMKjAtGmSuMuPeCUyaGkbLKzE6DHxJZtwEJEkOkDolAC/I4f4Lcj9b8QYLsD9Cozhz4nNkNM6fGXAGFjmSZwUQBWIHNvHFMm+fW5Fcfi2QvKPCGwqh/U0ANkVABFpMkj2u2Ry7bVGUmYNkeTLLEa2NcPEdg9gqch2DyiUrHtAwyQWwMAkJmNh8kwGW/tHPMsMF0xi/shmeUbL1jiWjCGBXZZYMkOQnl2WWGVCPEtGkUAuvizJcGRg+0XmZJh+kbn/SRLIfpF5/UnS80TIrpyi5YnjGnkK/xISeNJxO2yKnifDS4hUEVaMHUMT9xLi/ysJLyHdG5H+s8nw6cR+NjFvQ3r6dFFH1P8kHXu2rCTkOXki3Glcpj9JFYTe/L6KWJ4Ykriqg7IiSVt16Gc7hr9ZDfT9bb7AWYr07CV5uVlrigT2wr8QrmSev1h7+sa/PF9onlDJOP5hoeIppq1+I6p4iSLKHImCSXy9xJNZHzwNStZXRY2S0NDJ+IZOxkUC98yGWJC0K9EgWQWaTPKojpFk4KEgErYEK4BPiEGISwj0ZYmAarabjyBbcz8hsmXid0SVyU4AyRwnhaZE3IHcpMuK8zGhZTKZQ1OZFEtwNb7MEH9BFJtKrgCZ8e3V77hrctGe2dnt6addDVPnOD2gFQbR5oSEPHk0wXdK2hJpxg+xg0ZTWWOs3bAQD5JxidyUl0On8HPc4an9Gsf/DfgDaGmfPGYRZUcAAAAASUVORK5CYILZ9zef",
+                "origin": [
+                    1935,
+                    857
+                ]
+            }
+        },
+        {
+            "id": 16702254,
+            "classId": 35119,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:20:21.990Z",
+            "updatedAt": "2023-08-18T16:20:21.990Z",
+            "tags": [],
+            "classTitle": "knot_with_crack",
+            "bitmap": {
+                "data": "eJwBawKU/YlQTkcNChoKAAAADUlIRFIAAAETAAAAjwEDAAAA47StdwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAITSURBVHic7dg7bsQgEAZgVim2icQROAoXi2SOxlHcpaV0YZn4BTZmHn+klKFYF/5kZsZre8AYarzG7SeQ5/bxaYyd1uN75I2PJi/r0U30eRvMK28jmgNS15iM281sbM5kQMc16kiUca0hJnsI0gxPM2vBkNexncmd6UmXfBfNUUk5mn00JXrTpgnJMWaUI97H7eZbztxq5Dlzy58lV/4fvKlBO90wBWwMV8BtlEpbwAjh1CIixgum/GEFUoyUejFClauRylOMA8wgmUUP+TRiOKfxgBHDOZ8emUAmqGnhRrxbvzByCQ9jAeMA4xUTQTPoRivhZrTybC8FrTybsYDxgNHIatSQV6OGvBr7b0TjVBMh4//EBMgMqtGfHMgsmFGnmgEzASZBj45uImACYPQPAWSWPzIzYCbgrZoAM2JvZ9UgXwvE6A3AYZxMFsDMWmuYz65OMUlvbI5uVTFR7elOo3wqA9DZBKCL0vvZYpxEztWFlcwENKsJaHpHo3ei8TBigcJpBsGcRCpQXVg53tRFrOVNXcQJBUrFCMmPxQiJxWo8a0I1jiO3NaXlzG1tyiaWLsPe+SstPvkrLf7Oh5vxjLkRLrFmy4EJut26GEjT7tvQFYqNIWfrdkkIk57GqVORtX4Sokj9pk0fNrljNdzFdx9OV6TwRZFmNmbbq5ktsabMZqm863B5GeiMrvHK47vbYfoB1o8IoufoigcAAAAASUVORK5CYIJqXxot",
+                "origin": [
+                    1356,
+                    767
+                ]
+            }
+        },
+        {
+            "id": 16702253,
+            "classId": 35119,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:20:21.989Z",
+            "updatedAt": "2023-08-18T16:20:21.989Z",
+            "tags": [],
+            "classTitle": "knot_with_crack",
+            "points": {
+                "exterior": [
+                    [
+                        1356,
+                        766
+                    ],
+                    [
+                        1631,
+                        910
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16702252,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:20:21.988Z",
+            "updatedAt": "2023-08-18T16:20:21.988Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "points": {
+                "exterior": [
+                    [
+                        1934,
+                        856
+                    ],
+                    [
+                        2333,
+                        1018
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

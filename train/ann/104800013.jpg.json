@@ -1,0 +1,52 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16641703,
+            "classId": 35123,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:37:31.473Z",
+            "updatedAt": "2023-08-18T14:37:31.473Z",
+            "tags": [],
+            "classTitle": "Marrow",
+            "bitmap": {
+                "data": "eJwBkQJu/YlQTkcNChoKAAAADUlIRFIAAACKAAADCAEDAAAALdnvaQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAI5SURBVHic7dpBroMgEAbgaVy45AgchaPB0TgKR2DpwuhL2uobfUWZkbHq0+WXBoe/CTIiAIDp0eUBzkWWS305eshStSc5WYIE1bKkilAnS+3VqJGlWJw0l4wsWUxBljyX3AWoF6XH8QhEqdtGkwjbPahk9ftTJUv1CrWy1JyNJhHGFB2i1A+kuKS5ZOgUCWTpFLjkueSOQwYT7EHCE7ocGUwXzb5nkvAuKq+rLUPsx3Z7E4OE9zRqhf5P05xHBlOQJX8B0pgcgQ5R/YlIY/oQIYXsCgGTPvTR/U2rZJF0p6O8Od60079tELUUEq6rx9dNJyQnS55AVpbMjhQIpOkUCaQuTcmGpcxrzGQHxugM2S04/z2A45LPJ84nCSGfgE2WS4ZL+qYvrFaU1xiHOBU56ikSg17DP+h0H7t+m2CFtm4pLZ38kwydwpM0l9QKxZvWqC5CeQsYm/Y/DSi6wXNc8vnE3qdNKSYIylCzB9ki1KbIcElj6gikuLT20Q6ls/nyg07gCzCLqKGQQRQppLmkEIUk1VlU/SUcvk8ScAmP9eGOWwlPKP5ruoPmU0MhHE6bRR2FYJl6YXLlycqSKUgaESRJcQmvyG4jVcvkX1R0dbdZZLJI/yWVRXUWVVR6R4jT2UwoQ6CRHaRbIjNQu0R6oGaJ1EBxicakw0hjhn6JxnTGbH7n/SvDJDtEZj6fsfwGkZpXOtYaEFXzssYqsLyq6Cak5zd8jx8m9JjN8D3YdKhnsXFGYF8/+gGFlUJ7QEv/MwAAAABJRU5ErkJggvGHKMo=",
+                "origin": [
+                    1243,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 16641702,
+            "classId": 35123,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:37:31.472Z",
+            "updatedAt": "2023-08-18T14:37:31.472Z",
+            "tags": [],
+            "classTitle": "Marrow",
+            "points": {
+                "exterior": [
+                    [
+                        1243,
+                        0
+                    ],
+                    [
+                        1380,
+                        775
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

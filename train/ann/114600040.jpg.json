@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16696503,
+            "classId": 35123,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:08:46.514Z",
+            "updatedAt": "2023-08-18T16:08:46.514Z",
+            "tags": [],
+            "classTitle": "Marrow",
+            "bitmap": {
+                "data": "eJwB8AEP/olQTkcNChoKAAAADUlIRFIAAABmAAAB2AEDAAAAhaYPkAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGYSURBVHic7djLbYQwEAZgkA8cpwSX4tJMaS6FEnz0wcJJbLxhlNHPoCAt2Q23TwvMw4j1MEylHnGoBxcB2aYkyTXls/JN6x10uoaVdUIUAU1ABmh8Y6G+cIndzWqltxLqBOpn4ZqZAtPCFJlaMlT24btaQCuqhXey5p/yssKROloRT1MESkBZrfVIXlY5klPLAhHQBGSYRqaByzM5JstETBOTUasns55UTzsfayspSdoKjJIsEDHd4h2mkGFZ63WnGu6kF+qn+A9oJOn3ZAVpBgpqLYIGUVGSV8sBWSCSlCT9cln00m8ly7E0Sz2w1v9NzWqFJq+W+9era1ErSrKSxO8QpNalM5I4MelfN/qJl0cgIAvkWNZInl2HVJ6jotd8iQLQAhTVSmrlG8gr1LJ27Lf7KwmyoqIgYmci9dExCzJAI5M89J3+IOvAXfw+62uF4imkr8iqRZL0Q9E1e9W31Mj6ibQ99FEhX7WIclVBlK2aN1HVhrbwa5fZlbAl2tNsycSH/C54Cxgeol2AetP8rc8Ll53o68QPPGSxxUdMSO4AAAAASUVORK5CYIJm59/h",
+                "origin": [
+                    1147,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 16696502,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:08:46.514Z",
+            "updatedAt": "2023-08-18T16:08:46.514Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIdQGzAyAwkP7xdwAmk2AJ8QlyB9P///5fenH8XyGIsCfILZnB4diMNyFnl6eIYUjEn9+JGwcMKPKwX3i9ekNLSM+nim4tzfCUaJx1qb/LtWbp+xeOZk/cJFoRNiDzOWmGr5HzPLclY4fn3/ja2NUphYomcKuyLJrsE+e74H5SzK27m4xPvUoqZBEzUr3qWMU17lJJ8MuHm3IbUnPynZlFaEWVxH953TXrDomN+JjZE/ehJM9XY523LF/1S1o30DPjprnsl1SZg66ZXOuULclQDH2fPaLXrcfv6fUPv/vMi3MLdaqYnga5m8HT1c1nnlNAEALpGaUE=",
+                "origin": [
+                    901,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 16696501,
+            "classId": 35123,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:08:46.514Z",
+            "updatedAt": "2023-08-18T16:08:46.514Z",
+            "tags": [],
+            "classTitle": "Marrow",
+            "points": {
+                "exterior": [
+                    [
+                        1147,
+                        0
+                    ],
+                    [
+                        1248,
+                        471
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16696500,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:08:46.513Z",
+            "updatedAt": "2023-08-18T16:08:46.513Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "points": {
+                "exterior": [
+                    [
+                        901,
+                        0
+                    ],
+                    [
+                        1036,
+                        48
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

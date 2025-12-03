@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16644312,
+            "classId": 35120,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:42:45.075Z",
+            "updatedAt": "2023-08-18T14:42:45.075Z",
+            "tags": [],
+            "classTitle": "Crack",
+            "bitmap": {
+                "data": "eJwBzgEx/olQTkcNChoKAAAADUlIRFIAAABWAAABAgEDAAAAXvCy4QAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAF2SURBVHic1dZLjoQgEAZgCAuWHoGjcDQ4mkfxCC5dGGu6xaZ+LUqd7plJhtUXQkM9aIMxZXSjqSMtlZYov+yJhpc7ovqDQDS9HInmlhPR0jI9xoXt0/nvfSe2/5jXj3rLxSl+XJlaEw/zHeyzugcPxeHoUfF0w9tFjOCkmNq2p5449YbX1LeYpQdOfecenMFQqsW05xv2sI9mp9gqNugE/Y3gDuw45nWjBebnC0debyF3Dw7gCE5galtrrxN+r70eWirnB67UhcNt9zechdeykTl1+tSNtqAjl1x6gvXoETwoHu87KsY1xLZQfrQT7lfL65CFO1jzey5nBcURWoc+bSN+PCdRKgMluWMsp/ZvCeAIKaKTcOajdjZHlxC0D8UEHt+yLI+0dsOke8VZseGzFvAM3sKx0KFP7M5cQi6t1lzC3z0jAqSCjpAWOkGKmrm70uM3PTScDu4bjpzizoFTfLq+PDt4dXt4mTt4sRve/rlppfF1+RdbXwvRpNNmzgAAAABJRU5ErkJggh/z05o=",
+                "origin": [
+                    1495,
+                    473
+                ]
+            }
+        },
+        {
+            "id": 16644311,
+            "classId": 35119,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:42:45.075Z",
+            "updatedAt": "2023-08-18T14:42:45.075Z",
+            "tags": [],
+            "classTitle": "knot_with_crack",
+            "bitmap": {
+                "data": "eJwBhAN7/IlQTkcNChoKAAAADUlIRFIAAAHtAAAA2AEDAAAA/LopEgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAMsSURBVHic7ZtNbqQwEIWJZpGlj+Cj+Gj20TgKR2A3PVIPNW0ING2M6+eNhFpJSdn1l3K9eoWQbbquGYF+0dh1dG//7CQ+KUfyRIOBpiXGx58hvaddmJMv0avQrBmZ+U86xCSG4xSOuDi9q7C5ARI2UBfruKR3j6L/1GlR72pFK4pv0ILVl81+jcThrokPSOlENw6PTZwz3keTZrVvK8euvjIpmtU7Bmda5zm8vfrA4W3fs3RTe045ag89W3p7bCKPN4rnPLfEqfiC0nOcqedl+El6zvBrnDhXmPyMj1K82nyZ7qfphbrPkYDS63zQ4EfvauhjeoVyOYYCl5rmK0rraYSnY++cDi9X75V4oX1Q4sVzI2rxHmg7lXOjxl+KV7qGitYpXZMjYfheO6XpcgwYvpfe6fEbhu875/X4hOF71wcDnqDkT9xgGtr5xpT86ZsI4fpxm2O1ncGxOW5Q6Zvtgg1fbWejV9sZlVtxm2lotZ234j1gmhU3l77YzmiaFfdmfARMs+Jmeja9XbkZN5tmmRm78DPuMNzb8Qnq24xHO05Q22E8Ia7JOOCaPPAgDpguDzyIuwvxEbH8f8DD++I3aF6/OY7QP/g3xccf3BpXz/tb4+GdcX8p7i7FoRczGIdeSmEceiG/Gocedjger8NHGA/vjHsAH67GHYD3MI48rRKMI08rbNeIsD2rCceBx80d2ulcNqlBPJjxEdvqnHdKnRnvsX3aBO1wE7a/PmG7+3fkWGXDvRH/OhlxRnzEDhfWYx0jPmDnMj12KpQ6SLsv2qjddpRps+3zIDVa8Ocxrrfg44abRr7voOLThluMsz9D/qCb9j8U10a09Y+vuLaAocCV3us7KH0qca/CS1o3eMfbRirtjzfNVN4rhe90z7yDcirpa/fEnByvXbJTGKev4PLi6zf8vBSvCKdo3dnN1oisXbz64QQX+rZeulj7M/qRfogs3b4T7DicuZHM5R/bOHidmhOQoZnVsxfhPVI6p33i8Obgs8mb2kk+YAhQ8lbxvQCfjfO7Rss+HXH5h7USJMm3KFsg/2xlCf9E/2pzv/KDFp2D7oEc9fV+/wMmcypMqF7LbQAAAABJRU5ErkJgghPexeU=",
+                "origin": [
+                    2042,
+                    751
+                ]
+            }
+        },
+        {
+            "id": 16644310,
+            "classId": 35120,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:42:45.074Z",
+            "updatedAt": "2023-08-18T14:42:45.074Z",
+            "tags": [],
+            "classTitle": "Crack",
+            "points": {
+                "exterior": [
+                    [
+                        1495,
+                        472
+                    ],
+                    [
+                        1581,
+                        730
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16644309,
+            "classId": 35119,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:42:45.074Z",
+            "updatedAt": "2023-08-18T14:42:45.074Z",
+            "tags": [],
+            "classTitle": "knot_with_crack",
+            "points": {
+                "exterior": [
+                    [
+                        2042,
+                        750
+                    ],
+                    [
+                        2534,
+                        967
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

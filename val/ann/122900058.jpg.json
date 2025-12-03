@@ -1,0 +1,52 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16720521,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:57:40.954Z",
+            "updatedAt": "2023-08-18T16:57:40.954Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJ2QGzOyAwk8xiyzwMptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDciZ4ujiGVMyZe/Egb4MCD+sFKX4Z2YOBEr7uySLuD040/mj9Fi7s2zPxsvetoAzXW45CtsKrFJnYDiQlO28TWWCw6KZt01xB3e6u0JRAldNvJXhmi5ayOKd9bVX6zPyx7RTf+wP8U/hP3Ht05JvDp+XzIv5aO72x2/kq4zHvnhnNWcoyESW8cdUqedx35MUtiqJtb5evnshsv9+LvXPFo59AtzF4uvq5rHNKaAIAujpWcA==",
+                "origin": [
+                    2317,
+                    322
+                ]
+            }
+        },
+        {
+            "id": 16720520,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:57:40.951Z",
+            "updatedAt": "2023-08-18T16:57:40.951Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "points": {
+                "exterior": [
+                    [
+                        2317,
+                        321
+                    ],
+                    [
+                        2379,
+                        376
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16643299,
+            "classId": 35123,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:40:09.431Z",
+            "updatedAt": "2023-08-18T14:40:09.431Z",
+            "tags": [],
+            "classTitle": "Marrow",
+            "bitmap": {
+                "data": "eJwBRwG4/olQTkcNChoKAAAADUlIRFIAAABLAAAAtAEDAAAA5kRDZQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADvSURBVHicxdXBDcMgDAVQIg45MkJGYTQYjVEYgSMHFLeAjYIKdVEiNacnxfnYEQIhhDBR4CMBiAeARxoArNgA4GylVLxn2kKV6SiAInRmoCxKy4JEsRhcCW2FGnzhXumG9NTCjIEamzE+ycTxfISK4/gzzdFwhB+ZFriSOyawtBzdbXqOYYGRY1rgyRFY2iUajprj8Z2O9vqMns6HOeWQ223yG8Jw1H+h42g7Hp8UHVUVe16lIeOQoeflEhhTtiEm3NoQV4o2REdDneOPKFdZHblecIoawyZ8oaTFcI2yQg2uymkJqSigFGPpu6K8fwFnyjYUEhmlBwAAAABJRU5ErkJgghBphDg=",
+                "origin": [
+                    1376,
+                    772
+                ]
+            }
+        },
+        {
+            "id": 16643298,
+            "classId": 35123,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:40:09.431Z",
+            "updatedAt": "2023-08-18T14:40:09.431Z",
+            "tags": [],
+            "classTitle": "Marrow",
+            "points": {
+                "exterior": [
+                    [
+                        1376,
+                        771
+                    ],
+                    [
+                        1450,
+                        951
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

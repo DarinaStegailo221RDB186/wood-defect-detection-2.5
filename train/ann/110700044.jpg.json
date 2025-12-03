@@ -1,0 +1,136 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16703130,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:22:05.835Z",
+            "updatedAt": "2023-08-18T16:22:05.835Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "bitmap": {
+                "data": "eJwB6wIU/YlQTkcNChoKAAAADUlIRFIAAAF/AAAAqgEDAAAAfw7dDAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAKTSURBVHic7ZlNbtswEIXlZOElj8Cj8Ggk0IOFuyxzBQE9QLXUgtVUtOIRJfFnnmAXLtABDATIfOGbeZRDDbsujSvNETp5mAiQE+dfbvk0iIHrAsg16QUgNJ+olwGcLxR1pSRGSJGojs3flzTX7IGpnn/Z58+ErRVyUNQoJJ9f8eNQQaO5mQrqhRcUEfkCoEtASVOhhKKqUglFVaoGjPOvAUVRkz34Ucsn+nF4PqolEH3Rfo+814EYfrMRi7at8XOziGoDtNmIWgQkmowISCy3ImAtotFVDgd09Ra8qQRdvQW3SQmBAetq0lcjBHgHWiHARgjzGZDawM5JbWBAagPdnVByIEA2xHCIDazJAsCI2BAjoMAE+RYDBhxidAyPAj0KDNBWopsRTwYCtFnPABMKEPY4ULQaBDz0/FC0+tnAAD2hZ4ARB7B8HAiPAT7mz+eDVpgeC/x++gr/CmBfDzD/gZcA9OsB6vUA7B/7GQA7zZwBsCNcPDvAgEUBgwIaBRQEhBNnOMyIgJ6lx78BYFYPZwCLAP0ZwKCARgGFAtBm6qH3Y1pmFZDVHn1X9Ojrqzv1Rq2eCaBjBAIHFd/DEMCICRu28EDHioERGxjxUEqLgR4bevFgTd5XB86keDhohfk89TIooIUAD+IUCkj3K88GpdtvuAPSNvUdWITvQE2uAzWt+TLr0qsFLQHSEb6SAEMCiKzzCSBp0/Z2xGKKREW4DSDQ1O2iJepwb6ihErr2d4fbAw1NmZvMet25a63qEn0G0FgJubJHlpm/jD1oWoduOUUxDjp0bYFDGRPv+/IV6aa368G5pGgOExSpVfil3KPMMv5eVfPCemmX5h8ripZQFDSNb3egmT9r6t+/n3lDv9JH5w+ovV5PR1urXwAAAABJRU5ErkJgglmDQgo=",
+                "origin": [
+                    1729,
+                    552
+                ]
+            }
+        },
+        {
+            "id": 16703129,
+            "classId": 35120,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:22:05.834Z",
+            "updatedAt": "2023-08-18T16:22:05.834Z",
+            "tags": [],
+            "classTitle": "Crack",
+            "bitmap": {
+                "data": "eJwBxwI4/YlQTkcNChoKAAAADUlIRFIAAAB+AAAChgEDAAAAtrO9lgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAJvSURBVHic7dlLjuMgEAZgLC+85AgchaOZo3EUjsDSiyhMJiv4q1QFdNpja9K7fIpa1IOyIca8/7anaf98iS3sJTWfl1KOBtZSHg1spbT/1ZZSGnAvCCL4FzQL2V+QxuD1ueRbwERwJEHfFI4Gd998LH1QL31VYSvQMAQsghsH3wdhHAzAU4WHCH+L30y60gW5+kyq8I9AL/6qFp+HUIEdB/cpMMPwHIO+fmlAbY+r9As/CnSIFdg+CAhGgonS+i7QZ8Ng8fVuYOGH80V/MKwqbAi2D1IFrg8iQlDBAAzuWgIThZusQroDkLGvAxn7l4UVG4jAxkHTLxa7wXFwiKD33FVAj4UNLtewQ4vd5636pIMagW/GaMYacBxkhInGvcKe69uVOpCxpU86CuEOwM918o1YwYJg2G+kOwBZumG/kWvYEby6HUiTWbXrLgtkO1jsGALkgKOfoflK5VvAjv3AAplTeh060h4REkJW4UB4jEO99m0cVoR3PxQJ3nVoErJjQjwmxI3Hry915ZcaxiEKYCaAT4gIjm2qGvTNze9lAvkDQM6W5PT5RKA9RCBUQHKoA992IlgEcrOwYrgLhrtguDzI4epwYlP9EGbfD/IpoLeu3Ms71lIHj7V0KliEq1w/8PcR56/0nOD+r2gX7PVLJSiqkBCyBPw18yHBgtBx/73/BvjCnI0IkMsE+WxEwGE/TAL99SOoEBGSBJaFLEFnP9RAfqk48Rhz43ugjxx8JyAgRBUSQpaAnzGHBPpI4WeM/rPc4EuKZyFI4NikinCVJ9v3wd72x7Wf9J+Gb3B3Cj8iJAn0p/bsW5x+Lvwd+APk4YyfCBBv4AAAAABJRU5ErkJgghkxRiU=",
+                "origin": [
+                    1447,
+                    378
+                ]
+            }
+        },
+        {
+            "id": 16703128,
+            "classId": 35120,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:22:05.834Z",
+            "updatedAt": "2023-08-18T16:22:05.834Z",
+            "tags": [],
+            "classTitle": "Crack",
+            "bitmap": {
+                "data": "eJwBMgHN/olQTkcNChoKAAAADUlIRFIAAAA9AAAAnwEDAAAAcHhDTwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADaSURBVHiczdRBDoMgEAVQjQuWHsGjcDQ5Wo/iEVy6MPwyDB/bCsaapi0bXyIZ/0zApgmrQ6NrwKSwmBXAGp8t4CN6AGkv4ARjwE33KlrBFOuGJYXMDlIGSypTgb2O+RFIiLkkWMwlUQ0R40g7CqbwLLPuCk+pc3AEnljKwCtaoiujPDjDj/cc9/AEx4COActgnxV4Yt0hNzGXMaaA7+Gg4BdwEMym6W4HPiO/+tu+rg3hJ3M+W6d8mSpn9RMYUb3TlsEGdpHR82wYnha51PLc/qWh0KLI/1uje++/UuLmWB4GHwAAAABJRU5ErkJggkLHfZ4=",
+                "origin": [
+                    1936,
+                    712
+                ]
+            }
+        },
+        {
+            "id": 16703127,
+            "classId": 35120,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:22:05.834Z",
+            "updatedAt": "2023-08-18T16:22:05.834Z",
+            "tags": [],
+            "classTitle": "Crack",
+            "points": {
+                "exterior": [
+                    [
+                        1936,
+                        711
+                    ],
+                    [
+                        1996,
+                        871
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16703126,
+            "classId": 35120,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:22:05.833Z",
+            "updatedAt": "2023-08-18T16:22:05.833Z",
+            "tags": [],
+            "classTitle": "Crack",
+            "points": {
+                "exterior": [
+                    [
+                        1447,
+                        378
+                    ],
+                    [
+                        1573,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16703125,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:22:05.833Z",
+            "updatedAt": "2023-08-18T16:22:05.833Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "points": {
+                "exterior": [
+                    [
+                        1729,
+                        551
+                    ],
+                    [
+                        2112,
+                        721
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16643267,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:40:09.428Z",
+            "updatedAt": "2023-08-18T14:40:09.428Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "bitmap": {
+                "data": "eJwBCQL2/YlQTkcNChoKAAAADUlIRFIAAAFMAAAAgAEDAAAAWv3CZwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGxSURBVHic7ZhNroMwDIRBXbwlR8hRcrRwNI6SI7BkQeNH0wD5IfZkgSpV9ZJ+IuOxUe10XRk9+VgvfspDv1GyMhpIWgTuQWcIqInQqY71lAYjVmfopdjXsU8q4sKvoaRqEvKT4xjZdBgRfxyauluVWurlpGaWGRaNE3vwZJwYL5XiXhDOJ3KQq6laSeoWMyr1TEzJ6F4xDaATaAAdFQPIYBfgFQWxgFcUxPLNuocFbaVQBAWhC2prqJeBUIfaSt4tzFbfh5it3tgGFKuAr8EAonMTqkB0uQVd0RZoQh3aLfRqgjvQ8SYUJbfWugO134nOP/SHfh4134lqFLUtqPo0OqDo1IKi88D2X4BOGW0oOhERPmcRPL358U1j6ApPmh4dMHSBp2I/64LGWnwqnfBZd8SHbXwxaFg3VnzfmfEtysJr3L4dAmKPVdaI6L5HAnadS6+IHqSoIFrmlYDaExXEJncUqFLpU8huajgJc4pymU0ZWu8El5N1CReXSjUJJVlj86Tq7pZKq3LtNdopZ5ZUBn9ZmFSOJRPJteP30FJOZ/TwSyO1Inm8FrkrHcjrHZOH/7It8tFU2MueAAAAAElFTkSuQmCCjsfluQ==",
+                "origin": [
+                    488,
+                    158
+                ]
+            }
+        },
+        {
+            "id": 16643266,
+            "classId": 35118,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:40:09.428Z",
+            "updatedAt": "2023-08-18T14:40:09.428Z",
+            "tags": [],
+            "classTitle": "Knot_missing",
+            "bitmap": {
+                "data": "eJwBSAK3/YlQTkcNChoKAAAADUlIRFIAAAEOAAAAogEDAAAAitaxxwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAHwSURBVHic7dg7jsMgFAVQWylcsgSWwtLw0rwUL4HShTXMBPAH3ucSKRqlCG2OyH3PxBCGQRlu1z59jkeMCyA2xg0QH+OPCmIamjCZaGF8Jqssxiy0vI9ClM6UKFpJJYpS0vE9CnEnmQUxnkJszISJvcgKJ4mBJx4ScxPCE4iQTJjYinDPcYyQeEjqJCxxDaEL5hEhsZh4SNqwDGnDUkLCUkKSEEKTEEKTEMKIhoyYWI7scJKaGExYURGuKbFe3g4S5vHUxArg+sHy9d6JPMfx8lDmOF5BBhOnkTkRD2dRo+SKhM6XscEo+TGqIq06PUoiepS0TxhAZpQ2EQ/Iggp6PmpQUBcJ4pq9EdSWHrLBzv0R+xbiENnfRPwHESS+5EteJP6DiPsvYt9CDCbwjdlF4Nt7x3tAB9nwfrThXW3De+OGd9iA9+kgH8VeI6gxAZ48EvGYWEwMJqCkgI9BAZ7rMtHDdBzsQufxUO9vwEfVAE/Nhah5g/ZHoiIGE82shShpDqJ07yBK4JM4kSwDDHMSedFcRJxnvohU1I1IiW9C+CV0/PusCTtNc8/ApWmuRbii2psTJk0Y2kEauBJCIi+EkFUxU9LGoaKtir+Mq+IIt35OrfkaXiyonYop6BxGSVvGqKUtw/Ltr8bEN64aPpf8C+mWbVtL6uKLAAAAAElFTkSuQmCCGw4DDw==",
+                "origin": [
+                    2353,
+                    613
+                ]
+            }
+        },
+        {
+            "id": 16643265,
+            "classId": 35118,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:40:09.428Z",
+            "updatedAt": "2023-08-18T14:40:09.428Z",
+            "tags": [],
+            "classTitle": "Knot_missing",
+            "points": {
+                "exterior": [
+                    [
+                        2352,
+                        613
+                    ],
+                    [
+                        2623,
+                        775
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16643264,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:40:09.427Z",
+            "updatedAt": "2023-08-18T14:40:09.427Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "points": {
+                "exterior": [
+                    [
+                        488,
+                        158
+                    ],
+                    [
+                        819,
+                        286
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

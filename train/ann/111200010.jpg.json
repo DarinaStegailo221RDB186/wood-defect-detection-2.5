@@ -1,0 +1,136 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16703136,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:22:05.835Z",
+            "updatedAt": "2023-08-18T16:22:05.835Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtL2QKzCyAwkWRoKjgAptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcgo8XRxDKuYsvXCQt0GBh/VCvkVFCYt7oah540WZpcoVTxz+BN0WEu7/xqC/hSWKQVjHSHOX+iRfw/ICh2LuvycCGqbOM55z4NsDroIHF8TXnAi0z9iw9/75+gtMQhp9bO69/Z4LLJ7crd60riqilfeUe1vsdGlvtnPrP3inXQHazeDp6ueyzimhCQCXdEiJ",
+                "origin": [
+                    1669,
+                    157
+                ]
+            }
+        },
+        {
+            "id": 16703135,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:22:05.835Z",
+            "updatedAt": "2023-08-18T16:22:05.835Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "bitmap": {
+                "data": "eJwB9AIL/YlQTkcNChoKAAAADUlIRFIAAAGsAAAArgEDAAAAULmrUAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAKcSURBVHic7do9cqswEAdwPClS6gg6CkeTbvZ0FGZSpFXpzPN4AwgUhL52/4Xf8CZbuPD4Z6TdBWOJYchDP9/JDuQVbW+Mj8KnznGjOe5qefXrG29EroeWgyxh1tf183r+lo6azUiHWIY3f8OzrQxl4SOvxnuu9mjNbqyz1uzqqjW7twabK1lJx1dLEZVVIx0hvDQdrdn1VHl2zXTUD6f6jKacaQYrHI+j8uN10x/i3NGsMVJWc8NkLlE3pjq1CqNqIdLzh5kROuVSsVlSOs1mSVL46pgU/tSSigvGeKy4kTArLvYaMSfsYq8RK6dELKZyFLHYXyIVKyCbWmwvSbGXgDISC2cgJis27fWWTm1jWsomoNi0t4mRsjvQI7S1iTiRoU2ErbUElP/AlJxZpGyBjXLmcGbkbMKZXKHMI731DxjQycsJdwkGnG7LVeESTAHsCTP9OkbQpQRmFmUGYe4KbEKudxdh/pddlJn/lk3YJejVTCPMXYHZl7Lzz+JfjPEC/+1WAAPvS0B2hxlyzwUyDzPkpnd6KXPYvw6QWYxBawPhX76cPaAFjLCCIWceWmUJqzNy5qCloLBgpaTqia1X3ZGFv329ClxUE7cJuPIHLaHGVU0tY/saqrACfmPCVG6JlOZkV7LJ/exaKAmzkUna67BFIsmJ/2GS9nIHZvjsoATtlWxtaTabjozdXum2HTuVpx1ew2Q+ZZrJXMoUk6WK217ZXjmPTWc2clS+a8qpXGk7n8F8gZk+cwWm+6ygGJMrPjrQb0tbYt0SlGY29BulrHrDrD+D0RzmVGWtZLYeFEGGOLTOOt9i9Q6zTVae3Z/ukzOl4nEe7snQR//ZnqFwIjDMcG6VRyeFlWGyUTpMy2c3+pwPMz4UmUbevwGZSd/FJJeljgAAAABJRU5ErkJggmqiY0U=",
+                "origin": [
+                    431,
+                    701
+                ]
+            }
+        },
+        {
+            "id": 16703134,
+            "classId": 35120,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:22:05.834Z",
+            "updatedAt": "2023-08-18T16:22:05.834Z",
+            "tags": [],
+            "classTitle": "Crack",
+            "bitmap": {
+                "data": "eJwBPwLA/YlQTkcNChoKAAAADUlIRFIAAABJAAADNgEDAAAAgCE8FgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAHnSURBVHic7ZlNkoIwEIVDZcEyR8hROBocLUfhCCxdWPa4SOzu4UVGJZARXH1FBV/bv0k0xpgumPShKZGla8KWbgkdUUJPNMyxIwpz7InGEojVdhPGLhE++xfuO7o5E0sIvLA5AlONuDWxZQmBls2x/LTh1wzj/eltjvfXCOMAMfwRG4gGY8/h7FVkzRw9Nx6BeC3+3kVz3kSstptwzn2yB4U5es57r8pwKoFY7XjCOBYto6j0hiv9Hu8r4w0g17TAhmt6VcRqGcuqMzJTRGGOq4wUgFotPdUZM0V0KqXwJPoQnUIxiQSKObI8Uj5DPMA+mHDHMseQrL1ax2UHLfPn1KpRuLIAnKlRj/CeARD4fJStiosnNLxgW3MKCqfh0ip8frg8d5/1mNOoCIF9XQuT6yynzYR1E0t+8LAVf92Y6XKHpxCRyu9Tl+pmt22+uPGzuZydIjqIvtwZEguPvFZgiNhVcMl8Cn+/sK/gqqd/rdcMr6PYcbWMTmOU8ApTg+kUXhkvjNMbqKt/5AUhYq968sBoHr9yw0sWm9vmFhn9XqHwNHB6r3BcE0NEQqEotTFtXvP/emjhKNVTtYhwNgeKzGWcOsSBZ/z1V97w8MjBrlUtTJLdTkXuyKcBrOY2vXTCLVeXUDTnB8HxC4M/yEESAAAAAElFTkSuQmCC/6AFeA==",
+                "origin": [
+                    1401,
+                    202
+                ]
+            }
+        },
+        {
+            "id": 16703133,
+            "classId": 35120,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:22:05.834Z",
+            "updatedAt": "2023-08-18T16:22:05.834Z",
+            "tags": [],
+            "classTitle": "Crack",
+            "points": {
+                "exterior": [
+                    [
+                        1400,
+                        202
+                    ],
+                    [
+                        1474,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16703132,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:22:05.834Z",
+            "updatedAt": "2023-08-18T16:22:05.834Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "points": {
+                "exterior": [
+                    [
+                        431,
+                        700
+                    ],
+                    [
+                        859,
+                        874
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16703131,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:22:05.834Z",
+            "updatedAt": "2023-08-18T16:22:05.834Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "points": {
+                "exterior": [
+                    [
+                        1668,
+                        156
+                    ],
+                    [
+                        1731,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

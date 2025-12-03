@@ -1,0 +1,370 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16650504,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:54:07.041Z",
+            "updatedAt": "2023-08-18T14:54:07.041Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "bitmap": {
+                "data": "eJwBkQFu/olQTkcNChoKAAAADUlIRFIAAAHUAAAARwEDAAAAhGwkdgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAE5SURBVHicxdS9ccMwDAVg5FKk9AgehaOJo3GTcAR2YcGT4x/JkkhQBB4Ko/8OEPBEusGVCLfxQzYYrKcJtvQZOxtsIXKozQabDDYarDdYIrqCdDbYbLD3NdMFtMFgCbflYX8wGw32QekbbwvaJ6UvhBaDTS8LPZR+sZOeLiNDNqzW6e1KgR/pPTIQ6Giwb6oP9LxZdSjzZtXB2j5XHyy/s5OOlh3VHng/svJIh7bKI+WD1S36MLJy0R6385GqjpQq6/CRNQeu22oOXFPFgXNj5QduRlYcKbR2ktqWihddGHsR2shY6ZPFUOmyuLbCVLJSlg6+q2ho36PjxqlLaXTj7sDjzlwodnX2Q4Rzehbq+o1qy+Ftu6FOQ9kPtRfYTj4GK17qyshfWdt66D/uaRs1Lu51GNf7c9b6B+pPmUUxb4F9AAAAAElFTkSuQmCC7juxLQ==",
+                "origin": [
+                    582,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 16650503,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:54:07.040Z",
+            "updatedAt": "2023-08-18T14:54:07.040Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "bitmap": {
+                "data": "eJwBJgPZ/IlQTkcNChoKAAAADUlIRFIAAADTAAABUwEDAAAAmQ6r9gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAALOSURBVHic3dpJstsgEAZgubzwkiNwFI4GR+MoHIGlFirISyzL0DQ/LTykEq1c9ZVRT5IHsSy/D7Ut3SNn36Nbztl1zP7YytPlh3LqL5lzYE3n/hvNH+Ojsbm/6J3YSK+7cbVRu3HB6N1yP0y2pvZhsRsmd8LLYW3216cFYE32t9w/YWHNoir3F9W5v2hpNAtTmgcWa7OlbcBInyoiwdRWBXOpLQCrAr3WtgJLwKpAqZWB3ogFYBFYGagitgFLwDKyIkFNzQMLwKLMDLVVZpbaNmlJZpSgZWQOmAcWgEVgK7ANWAKWkTlgftLCpEVgK7ANWAKWkblJ8wKzjIVJiwIzk6YZ24AlYBmZA+aBBWAR2D5NirMNWJq0PXn62TE2NzT6GXc//KSFoV1Yiy8Ze7E8msTaBiwB24ttWXPAfPdiwRb6QwgtgmGKYChW0MCx8U2aLXZCxR6bYc0NTbPmQUGRhaHxjUBNGhvfJGSfaPzYpq9ce9YSGIrdNDB11gS3bL6gY+MLuoCiOVCYT5h/zcyXTZ+1MDb1TotjYwdNYOygCYwdwnVs7IA+vhTaSTMnLb1o+sumJo1rvMS4xr9q7FB829z/Y2/91Skxe9L8ly38JTNfNj1p6h8x7sb0SeNuWhLjLk6JvfMvr4+afZ95iZlJ0605ianWlletHbT0srVDuH3U2uFdRdYOU5SZPWPhaQaYnjRFzU+ae1rTXGTLnJXPg2hzN2Cr0GjjZy0KjQ6M2GxtQWqmNi81DUzV5qRGmrtIrW5gmrT6IW/dpBVYrKxuUgDma7PdshCrqW4SMd1NvW4EtbLYdP8CsrKg9AF+aZFYWdBArCyap2aBFYVx1DSwojCUyuQbeyaIdlkwWz665SwTZLaYHAnG1o4EQ2tHgr61I0HX2pFgS0eC7PaafnpHguxeH9NN70gicHbtpncEw9J90d5mJtsLZbmX7fH6FxUTHfjyZySVAAAAAElFTkSuQmCCXQJ3hg==",
+                "origin": [
+                    1813,
+                    397
+                ]
+            }
+        },
+        {
+            "id": 16650502,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:54:07.039Z",
+            "updatedAt": "2023-08-18T14:54:07.039Z",
+            "tags": [],
+            "classTitle": "resin",
+            "bitmap": {
+                "data": "eJwBmwJk/YlQTkcNChoKAAAADUlIRFIAAAIBAAAAnwEDAAAAWtuYOAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAJDSURBVHic7dZNjsIwDAXgjGYxS47Qo/RozW6ulaPkCFl2UZWBhp9pmzjPeQUqRFdISJ9q+9lguiP3WPMRokACH2EzwXyEvQjjWwjDFkL3aqF/CyFsIbSc4PchNJzgaMFuIRw4wbxeOB0Y80MJwybCNyX0tBBo4RRq80UL3LF2tGDPQscIhhXGSWgJYZiEhhB6Wgi0MMWBWm9HC5YWJoA5ECMtDLQQ48AciEALcZjMibG0YFjhMgriSPVXoasVPC3Yq9DWCoYVbm2oPjG3NlSvt2GFexG1y+nuQuVq3YHKWPe04P8JdYvxH6iKdT8T2grBzYSGfYWaSIW5UBEpOxf0kRrnQEUgFkVUjNMuhVYJDEtAPU63ErTDWAHaYayL0O5WnxBalbBug7aVCUDXiGUg9Y1INVJXRkgKmjJ8UtCshk0L+H6mG6npRLqRmk5k2qDoRKYNeCeyRcB15ItA65AA6HfDiQLQCSsCyLUrCeVYFYXiS5SA8p0oC6UyykKpjGcIpWTTQva6bCkUgr0HQTov12cPQicKqX8O2wvtg4UACM2DBQ8IB1qQD4R7iiCvtwUEebV4AQDk1QLOg5EXAxNaQUCWWw4lslhyKDFBilSABClSHhKkQDhIkAJhMaHLCxggBAILlBQILFDSOLE4SOMMoJAfhkeFLic4VMi20qJCrpXoMPO5Rodpso0IuHBICx4XLmWEhWRxIU5jMPOx4I08P+dOXD78HvvYFzTT2VfStGH1xE0hgFgUU0RMqaWEUyd89rs/5c5RnZ6z6tAAAAAASUVORK5CYIKhvxcn",
+                "origin": [
+                    2087,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 16650501,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:54:07.039Z",
+            "updatedAt": "2023-08-18T14:54:07.039Z",
+            "tags": [],
+            "classTitle": "resin",
+            "bitmap": {
+                "data": "eJwBfgGB/olQTkcNChoKAAAADUlIRFIAAACkAAAAfAEDAAAA3RaJQAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEmSURBVHic7dZBzoMgEIZhGxcuPQJH4WhwNI/iEbrsopH/DyoOzEuTSUxXZfks8BtUZoYhrzHl9R6qlY71lDifmqSGouuFY0G587WB3MILXVSCKsUotWw8Sd1OdVJThIddj6vwfNyj1hdEKCGmWjdd71WzazRCsDNaaHSFuEfgR6sviHsEnlrdKO4emNUpjVDEXgZrULpCaXtxqKrgXDKrOoZ8EKzqcPLxsM5ak00daDSpB11u0AC6flkB/1/9T+/SAPrtd+xB7/h+Hajtz5pBbX+35S6x3FGWu89yp3ZuZa+0f687pdHYW7g7cSfjrscdstNNfaPLhy7dBv7U/XlS4KmCJ5DOtFJHiwOEKFMQT0w8XXUmMVlzwc6Ex9NgZ3LkKbOdSP8ALzJVtRHX4KsAAAAASUVORK5CYIKe+qpL",
+                "origin": [
+                    2422,
+                    164
+                ]
+            }
+        },
+        {
+            "id": 16650500,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:54:07.039Z",
+            "updatedAt": "2023-08-18T14:54:07.039Z",
+            "tags": [],
+            "classTitle": "resin",
+            "bitmap": {
+                "data": "eJwBPQHC/olQTkcNChoKAAAADUlIRFIAAAA8AAAAjQEDAAAA0aSL4QAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADlSURBVHicrdRBDoQgDAVQjAuXHIGjzNHgaByFI7hkQexQSrVYSSYT3fhiiP2g+cYYn0y7VigEBxAaPgCxAQB2vC8VmdYCrd4qDoStgAEOEeg19CINj0iPwHub2pDnKHMcPwAk2nQMfUPsmTGZhuOsdkSm8xmxckSNhZNpXKH9/yhzZAmOusyxzqG3fMM+R1KQa9YRcugrwR4T2hFJwI2I6on8NxyPuKEwDgbwiAuBEXuwB6S+Uwk6ljpew5zwL+EzgT4OeWSWsY0I/OUMf93eRNQ3OLVwzWQunrOlIhcYNdnZba3tvvz1GluA6ZNMAAAAAElFTkSuQmCCrxWC3A==",
+                "origin": [
+                    1463,
+                    617
+                ]
+            }
+        },
+        {
+            "id": 16650499,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:54:07.038Z",
+            "updatedAt": "2023-08-18T14:54:07.038Z",
+            "tags": [],
+            "classTitle": "resin",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJ2QFzAyAwka2IDpYEUW4BPiCuQ/v///9Kb8+8CWYwlQX7BDA7PbqQBOfs9XRxDKuacvbyR94gCD2uAn6aGZGOgBK9bsojbDiPXlua/ubEqC3ZP7lOycT1h5nF/58ZHLzd0bKhepMbhku+otItl5orXkXPqDE8dOLjCv8LNWVJklqCkuhVDpGLrzteJH9oSOoQnKb5XtN4+o2Fe8gbdWQv9NNhm77XXe7il519mffPhB7yJTiZLbD/JfTFe4BrL2DxVdJGiz4d4priraxX070+f0B0rZcx5mN1mb4rhpGXGDxa9iDLpvjupZ0ffZY9PL87fl95xLtM1JO9RHdArDJ6ufi7rnBKaAAK6bbg=",
+                "origin": [
+                    2181,
+                    802
+                ]
+            }
+        },
+        {
+            "id": 16650498,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:54:07.038Z",
+            "updatedAt": "2023-08-18T14:54:07.038Z",
+            "tags": [],
+            "classTitle": "resin",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJeQNzAyAwkp+XmPgBSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5GzzdHEMqZjz9IqhUIsCD2vADF0NSyb3hxlFJv2PBDV0Zf49mtVxpq50zs284L1NfyYw9awU3TyxitGLv+cQxwtOhtNq0ZHf9N4Wa09my3CJmGnqrWx35xfbm1ppd8mw7KwzRtuv3dkRILY3wr1gGbvM+Qz5Ceo73O5LaCg/deiUjjp13fTyxHez2jaWfDm0NFngXO9OXZuLd4WXvuzY//hDw0SjgCov98q/HNVRXp+PFrn/s5Wx+D7F+knwLvlPvLoNcy+5/d7pCfQBg6ern8s6p4QmADpcbQc=",
+                "origin": [
+                    1001,
+                    896
+                ]
+            }
+        },
+        {
+            "id": 16650497,
+            "classId": 35119,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:54:07.037Z",
+            "updatedAt": "2023-08-18T14:54:07.037Z",
+            "tags": [],
+            "classTitle": "knot_with_crack",
+            "bitmap": {
+                "data": "eJwB0QEu/olQTkcNChoKAAAADUlIRFIAAAD5AAAAgwEDAAAAdTgvdAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAF5SURBVHic7ZdBboQwDEUZddFljpCj5GjhaN31GhyBZRYIl0IwyeBvIxGNWrXe+ol8f0fE7ro9Ai0xdzAcrZEgQDl6I0+jnA8MyCre6BRDBfgzUIsR8lU9wglLnD3AKoIIFGeI+aLghwwcdbwDgEXIGgvXZY1E0w5EALBKkGeVqAiiD83o7xj0KrkMB4GEL8MWk24D1xkhQIYN2QhsQzYC25CNwDZkI5wCpEuAV4BJ9yk7ZQJRAcgwcrPSAjSnV69NQGvF2gwT0Hq1dssEnAqkFoBXgakFEFRgfgkQVYB+CaDnl3v/D/wpIOrAz7i0JhDU/Gv+D14FmvwGnQo0+Znff3Huv3r3X977r789YAQlf22G8QowtZnEzGHPHBfNgdMcWe2hN8D8fHHwdhBIF4d/c30wFxBzhYF18hLkAcBrFCpj3AFUxrADSGXPgKyy2J+dCBQLqSzikACuRJHnMz7lE7iOufxUXwGbirFo3NA9RXw69RSPo7tVfAEibp/wZ5HJGgAAAABJRU5ErkJggngfwRA=",
+                "origin": [
+                    1426,
+                    19
+                ]
+            }
+        },
+        {
+            "id": 16650496,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:54:07.037Z",
+            "updatedAt": "2023-08-18T14:54:07.037Z",
+            "tags": [],
+            "classTitle": "resin",
+            "points": {
+                "exterior": [
+                    [
+                        1001,
+                        896
+                    ],
+                    [
+                        1075,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16650495,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:54:07.037Z",
+            "updatedAt": "2023-08-18T14:54:07.037Z",
+            "tags": [],
+            "classTitle": "resin",
+            "points": {
+                "exterior": [
+                    [
+                        2181,
+                        801
+                    ],
+                    [
+                        2242,
+                        913
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16650494,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:54:07.036Z",
+            "updatedAt": "2023-08-18T14:54:07.036Z",
+            "tags": [],
+            "classTitle": "resin",
+            "points": {
+                "exterior": [
+                    [
+                        1463,
+                        616
+                    ],
+                    [
+                        1523,
+                        757
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16650493,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:54:07.036Z",
+            "updatedAt": "2023-08-18T14:54:07.036Z",
+            "tags": [],
+            "classTitle": "resin",
+            "points": {
+                "exterior": [
+                    [
+                        2422,
+                        163
+                    ],
+                    [
+                        2585,
+                        288
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16650492,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:54:07.035Z",
+            "updatedAt": "2023-08-18T14:54:07.035Z",
+            "tags": [],
+            "classTitle": "resin",
+            "points": {
+                "exterior": [
+                    [
+                        2086,
+                        0
+                    ],
+                    [
+                        2599,
+                        158
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16650491,
+            "classId": 35119,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:54:07.035Z",
+            "updatedAt": "2023-08-18T14:54:07.035Z",
+            "tags": [],
+            "classTitle": "knot_with_crack",
+            "points": {
+                "exterior": [
+                    [
+                        1426,
+                        19
+                    ],
+                    [
+                        1674,
+                        149
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16650490,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:54:07.035Z",
+            "updatedAt": "2023-08-18T14:54:07.035Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "points": {
+                "exterior": [
+                    [
+                        1787,
+                        421
+                    ],
+                    [
+                        1793,
+                        428
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16650489,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:54:07.033Z",
+            "updatedAt": "2023-08-18T14:54:07.033Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "points": {
+                "exterior": [
+                    [
+                        1813,
+                        396
+                    ],
+                    [
+                        2023,
+                        736
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16650488,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:54:07.033Z",
+            "updatedAt": "2023-08-18T14:54:07.033Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "points": {
+                "exterior": [
+                    [
+                        581,
+                        0
+                    ],
+                    [
+                        1050,
+                        71
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

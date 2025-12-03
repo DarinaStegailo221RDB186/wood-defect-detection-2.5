@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16646546,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:46:13.400Z",
+            "updatedAt": "2023-08-18T14:46:13.400Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJ2QGzGyAwkl8bsyAJSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5EzydHEMqZgz9eJewUMGPKwJhZpBVS09jy7OuSjRKhi07MPHCfPqLBYwXPqxe7Kq5aSOLZr/GMPncTMs0uRzDv9wzeHImy2vxR8989yzV2h5uvHZQvGbHCJlYmkLDzmE1Bz/2DL/1mPrZ/US9gvSuw99a5zmr7vmp7X3Ifd0Z52K/thFJWsOuD3PNHav37fGfcLq1xste6+GmX5i2BvvpX7P+9JHoOsYPF39XNY5JTQBAPm/YEQ=",
+                "origin": [
+                    1988,
+                    969
+                ]
+            }
+        },
+        {
+            "id": 16646545,
+            "classId": 35119,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:46:13.400Z",
+            "updatedAt": "2023-08-18T14:46:13.400Z",
+            "tags": [],
+            "classTitle": "knot_with_crack",
+            "bitmap": {
+                "data": "eJwBXwKg/YlQTkcNChoKAAAADUlIRFIAAAIeAAAAfgEDAAAAUWaKegAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAIHSURBVHic3dnNccMgEAXg9fjgo0qgFJUmOkkrdJAWKIHc8ERBsSIr+gHJ2t130HjPzjfwdsFmQkSmU1YkohqBNADkojW6luiKQG4IpEIg5jRIjUAaBKI2UIh+YFGIfuofBxCC6I8OCqn0SMAg5iSIxyC1HnEYpNEj9jQI4nZM73bFApD4Xkg4DeJPg7jTILaIfPMQKiJfLCOVEYdAeNUikIhAAgLxCMQiEAK8uxICiQjEIxALQPp5VT93HAAZFqL8zRYRSEAgfkAqFeIQiB0Q1SsjDYbu0dQikGdzdA9JC0DGSFRXmzsNYv+RRo4QFqnFRkIg7YQYMRIRSJiQSoz4CZHfBQ6BTLOmuAsmQ36MZx2WH544Rxoh4udILUTsHDFCZG5Ip22Rq3RQFpFIe7yIRNjjsDRk7XErRBTKajeyUGhdDd9oM6TmIzFDKj7iM0QQSmYIQskjEexn3WDJpOSJCEIpLYR7fEqJEHdSQhlhhZLKBiuUjc0Qq8kbm+Gl4reR4xuy28jhr47tSPo62KGdSA7GksxWf5cb+tlD8rsor/5zvtlB3AGkX4vd29UR47GWnX/W3PdGZFWbE3OcoNlleV8iloNcu8/hr8LC2J+yEjP0Ysz4449kImTSrb83nkOcevTllBXq0k/WZdwIfzNDVR2N10x4LMmKkH+L2ZZSXWVprMq8PjC/8oZNtU0jUEsAAAAASUVORK5CYIJ23AU5",
+                "origin": [
+                    1264,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 16646544,
+            "classId": 35119,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:46:13.399Z",
+            "updatedAt": "2023-08-18T14:46:13.399Z",
+            "tags": [],
+            "classTitle": "knot_with_crack",
+            "points": {
+                "exterior": [
+                    [
+                        1264,
+                        0
+                    ],
+                    [
+                        1806,
+                        126
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16646543,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:46:13.399Z",
+            "updatedAt": "2023-08-18T14:46:13.399Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "points": {
+                "exterior": [
+                    [
+                        1988,
+                        968
+                    ],
+                    [
+                        2050,
+                        1022
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16646542,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:46:13.398Z",
+            "updatedAt": "2023-08-18T14:46:13.398Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "points": {
+                "exterior": [
+                    [
+                        1225,
+                        65
+                    ],
+                    [
+                        1229,
+                        69
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

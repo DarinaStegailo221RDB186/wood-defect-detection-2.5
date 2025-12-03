@@ -1,0 +1,136 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16720076,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:56:45.673Z",
+            "updatedAt": "2023-08-18T16:56:45.673Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "bitmap": {
+                "data": "eJwBKwHU/olQTkcNChoKAAAADUlIRFIAAAB3AAAASgEDAAAAuxNZugAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADTSURBVHiczdRNDoMgEAXgIV249AgchaNh0ou56zW8QV2yMLwy4FhnTNqYNk1ZED4DjH8PIm5hJuoSSbsARD0298BIHrM4oIwDsjgCibtxNYCFu6nRlWH29aJsv7a2oNucpJy0uoPXjk/yLXXQ9sbReM9S0BnHv/L8dSuWeq+9HBxPOf/cOOXj872zrvfp95uMR+PB2PzO2XgxTjWr+3Lag4qLTypseRfGOyS9LW43SFhbfq6AHA91A4ct/byivnY5HRwvDXgeL7FM7eVw4AVceZ3+AK7pj6dqGkBtAAAAAElFTkSuQmCCwvyBmw==",
+                "origin": [
+                    1685,
+                    151
+                ]
+            }
+        },
+        {
+            "id": 16720075,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:56:45.672Z",
+            "updatedAt": "2023-08-18T16:56:45.672Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIpQGzCyAwk3RbxPwBSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5Gz3dHEMqZiz9pIvV4sBD+uDjm492yb3jxliz5LunjXdc3BHSeAvNd9FuayubZwddUG/k+UESz9caV7jlmOSaHrWg8WlpYfvQLf+kTXz5O9Ffnp55Hu/Bv/RwG6+LY8yYy+6mYgc3fMt0HP5ndVT9wc+sI3PtOTk33ovq27NS/6ouhCLzDVPXtttWCW38GX86iUTNVbV+eRs8ZzyLWplnqn6kWnyC15OVJ00ee0NoY3tz3z8JloL6K6tMjq7evL1SU/1ywo085p19CqAXmDwdPVzWeeU0AQAlr1wAQ==",
+                "origin": [
+                    993,
+                    232
+                ]
+            }
+        },
+        {
+            "id": 16720074,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:56:45.671Z",
+            "updatedAt": "2023-08-18T16:56:45.671Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJhQOzEyAwkv9/fbAmk2AJ8QlyB9P///5fenH8XyGIsCfILZnB4diMNyNnn6eIYUjGn99JG3iMKPKwBi0Sm9EwIlNDtOabR4+ApeJRRenb9JdfykPUG9n0bi4tWWNk2ZmQt95hyNHaJa/OVtJMW4rc35387+WyBr8dJLxUTn+nvmGWWv+5K9O/jz0/g70vYe2v25k/vZN8cZKzZY9F0fn7etY/16/T19M89YGmL329/bEPP4lXZvx5HnvnmJO5/P7vDdpfOgWWKz5iA8tfWKt8VL2Se/vLyOq/L77r7RY1n7btS59q3bPWtm1Gf2SdZvrjKfuXxUynLg3Y+QJ8weLr6uaxzSmgCAHXxd3Y=",
+                "origin": [
+                    1552,
+                    885
+                ]
+            }
+        },
+        {
+            "id": 16720073,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:56:45.671Z",
+            "updatedAt": "2023-08-18T16:56:45.671Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "points": {
+                "exterior": [
+                    [
+                        1552,
+                        885
+                    ],
+                    [
+                        1638,
+                        951
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16720072,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:56:45.671Z",
+            "updatedAt": "2023-08-18T16:56:45.671Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "points": {
+                "exterior": [
+                    [
+                        993,
+                        231
+                    ],
+                    [
+                        1092,
+                        284
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16720071,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:56:45.670Z",
+            "updatedAt": "2023-08-18T16:56:45.670Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "points": {
+                "exterior": [
+                    [
+                        1685,
+                        151
+                    ],
+                    [
+                        1804,
+                        225
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
